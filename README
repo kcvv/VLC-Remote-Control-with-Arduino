@@ -1,0 +1,10 @@
+Written by Venkatesh V
+This is a small project to control VLC Media player using an old TV remote control. 
+
+An Arduino is used to interface with a IR Diode and return hex codes to the system using a serial port. 
+A Python script is used to monitor the serial interface and based on the input will send commands to VLC using HTTP interface. 
+
+
+More details coming soon. 
+
+
